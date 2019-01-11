@@ -1,4 +1,5 @@
 <!--logs.wxml-->
 <view class="container">
   这里是文章1的内容 id为：{{id}}
+  <text>hello</text>
 </view>
