@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto" bindtap='view1Click'>
+    <text class="user-motto">文章1</text>
+  </view>
+  <navigator url='../circle/circle?id=2'>
+  <view class="usermotto">
+    <text class="user-motto">文章2</text>
+  </view>
+  </navigator>
+
+  <view class="usermotto">
+    <text class="user-motto">文章3</text>
+  </view>
+
+  <view class="usermotto">
+    <text class="user-motto">文章4</text>
+  </view>
+</view>

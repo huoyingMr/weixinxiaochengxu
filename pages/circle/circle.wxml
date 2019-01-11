@@ -1,0 +1,3 @@
+<view class="container">
+  这里是文章2的内容 id为{{circleid}}
+</view>
